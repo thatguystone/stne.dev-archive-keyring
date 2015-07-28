@@ -1,0 +1,7 @@
+This is the source for the debian package `debian-stoney.io-keyring`.
+
+The following exist:
+	deb http://deb.stoney.io/ jessie/
+	deb http://deb.stoney.io/ stable/
+	deb http://deb.stoney.io/ stretch/
+	deb http://deb.stoney.io/ testing/

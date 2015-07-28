@@ -1,0 +1,14 @@
+Source: debian-stoney.io-keyring
+Priority: important
+Section: misc
+Maintainer: Andrew Stone <a@stoney.io>
+Build-Depends: debhelper (>= 8), gnupg
+Standards-Version: 3.9.5
+
+Package: debian-stoney.io-keyring
+Architecture: any
+Depends: gpgv, ${misc:Depends}
+Recommends: gnupg
+Breaks: apt (<< 0.7.25.1)
+Description: GnuPG archive keys for deb.stoney.io
+ Package for deb.stoney.io's archive keys
