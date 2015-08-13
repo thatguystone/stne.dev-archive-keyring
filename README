@@ -1,4 +1,4 @@
-This is the source for the debian package `debian-stoney.io-keyring`.
+This is the source for the debian package `stoney.io-archive-keyring`.
 
 The following exist:
 	deb http://deb.stoney.io/ jessie/

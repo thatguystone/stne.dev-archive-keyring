@@ -1,11 +1,11 @@
-Source: debian-stoney.io-keyring
+Source: stoney.io-archive-keyring
 Priority: important
 Section: misc
 Maintainer: Andrew Stone <a@stoney.io>
 Build-Depends: debhelper (>= 8), gnupg
 Standards-Version: 3.9.5
 
-Package: debian-stoney.io-keyring
+Package: stoney.io-archive-keyring
 Architecture: any
 Depends: gpgv, ${misc:Depends}
 Recommends: gnupg
