@@ -2,4 +2,4 @@ build:
 
 install:
 	mkdir -p $(DESTDIR)/etc/apt/trusted.gpg.d
-	cp keys/BEFBAE7F.gpg $(DESTDIR)/etc/apt/trusted.gpg.d/stoney.io.gpg
+	cp keys/EAB738A4.gpg $(DESTDIR)/etc/apt/trusted.gpg.d/stoney.io.gpg

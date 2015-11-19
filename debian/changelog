@@ -1,3 +1,9 @@
+stoney.io-archive-keyring (2015.2) stable; urgency=medium
+
+  * Switch to repo-specific key: EAB738A4 (exp: 2017-11-18)
+
+ -- Andrew Stone <a@stoney.io>  Thu, 19 Nov 2015 16:34:52 -0500
+
 stoney.io-archive-keyring (2015.1) stable; urgency=medium
 
   * Key BEFBAE7F (exp: 2017-07-27)
