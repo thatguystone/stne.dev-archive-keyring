@@ -6,7 +6,7 @@ Build-Depends: debhelper (>= 8), gnupg
 Standards-Version: 3.9.5
 
 Package: stoney.io-archive-keyring
-Architecture: any
+Architecture: all
 Depends: gpgv, ${misc:Depends}
 Recommends: gnupg
 Breaks: apt (<< 0.7.25.1)

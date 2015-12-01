@@ -1,3 +1,9 @@
+stoney.io-archive-keyring (2015.3) stable; urgency=medium
+
+  * Build for all architectures
+
+ -- Andrew Stone <a@stoney.io>  Tue, 01 Dec 2015 17:46:46 -0500
+
 stoney.io-archive-keyring (2015.2) stable; urgency=medium
 
   * Switch to repo-specific key: EAB738A4 (exp: 2017-11-18)
