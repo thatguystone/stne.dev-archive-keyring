@@ -1,8 +1,4 @@
 #!/usr/bin/make -f
 
-override_dh_clean:
-	rm -f dist/*
-	dh_clean
-
 %:
 	dh $@
