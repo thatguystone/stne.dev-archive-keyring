@@ -1,7 +1,4 @@
-This is the source for the debian package `stoney.io-archive-keyring`.
+This is the source for the debian package `stne.dev-archive-keyring`.
 
 The following exist:
-	deb http://deb.stoney.io/ jessie/
-	deb http://deb.stoney.io/ stable/
-	deb http://deb.stoney.io/ stretch/
-	deb http://deb.stoney.io/ testing/
+	deb https://stne.dev/debian unstable/

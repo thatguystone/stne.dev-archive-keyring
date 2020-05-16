@@ -1,17 +1,5 @@
-stoney.io-archive-keyring (2015.3) stable; urgency=medium
+stne.dev-archive-keyring (2020.1) unstable; urgency=medium
 
-  * Build for all architectures
+  * Key 75E9F56FE12142C8 (exp: 2025-05-15)
 
- -- Andrew Stone <a@stoney.io>  Tue, 01 Dec 2015 17:46:46 -0500
-
-stoney.io-archive-keyring (2015.2) stable; urgency=medium
-
-  * Switch to repo-specific key: EAB738A4 (exp: 2017-11-18)
-
- -- Andrew Stone <a@stoney.io>  Thu, 19 Nov 2015 16:34:52 -0500
-
-stoney.io-archive-keyring (2015.1) stable; urgency=medium
-
-  * Key BEFBAE7F (exp: 2017-07-27)
-
- -- Andrew Stone <a@stoney.io>  Tue, 28 Jul 2015 16:08:39 -0400
+ -- Andrew Stone <a@stne.dev>  Fri, 15 May 2020 19:48:18 -0700

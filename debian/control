@@ -1,14 +1,12 @@
-Source: stoney.io-archive-keyring
+Source: stne.dev-archive-keyring
 Priority: important
 Section: misc
-Maintainer: Andrew Stone <a@stoney.io>
-Build-Depends: debhelper (>= 8), gnupg
-Standards-Version: 3.9.5
+Maintainer: Andrew Stone <a@stne.dev>
+Build-Depends: debhelper (>= 12), gnupg
+Standards-Version: 4.5.0
 
-Package: stoney.io-archive-keyring
+Package: stne.dev-archive-keyring
 Architecture: all
-Depends: gpgv, ${misc:Depends}
-Recommends: gnupg
-Breaks: apt (<< 0.7.25.1)
-Description: GnuPG archive keys for deb.stoney.io
- Package for deb.stoney.io's archive keys
+Depends: ${misc:Depends}
+Description: GnuPG archive keys for deb.stne.dev
+	Package for stne.dev's archive keys
