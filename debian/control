@@ -2,7 +2,9 @@ Source: stne.dev-archive-keyring
 Priority: important
 Section: misc
 Maintainer: Andrew Stone <a@stne.dev>
-Build-Depends: debhelper (>= 12), gnupg
+Build-Depends:
+	debhelper-compat (= 13),
+	gnupg
 Standards-Version: 4.5.0
 
 Package: stne.dev-archive-keyring
