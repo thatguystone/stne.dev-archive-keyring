@@ -1,3 +1,9 @@
+stne.dev-archive-keyring (2025.1) unstable; urgency=medium
+
+  * Key 0D7B5855AF7776C2 (exp: 2030-02-05)
+
+ -- Andrew Stone <a@stne.dev>  Thu, 06 Feb 2025 10:46:05 -0800
+
 stne.dev-archive-keyring (2020.1) unstable; urgency=medium
 
   * Key 75E9F56FE12142C8 (exp: 2025-05-15)
