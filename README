@@ -1,4 +1,1 @@
-This is the source for the debian package `stne.dev-archive-keyring`.
-
-The following exist:
-	deb https://stne.dev/debian unstable/
+deb822 .sources files have made this obsolete: keys can be embedded into the Signed-By field
